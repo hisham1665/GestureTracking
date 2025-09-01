@@ -12,10 +12,6 @@ This project demonstrates real-time hand tracking using **MediaPipe** and **Open
 
 ---
 
-## 📂 Project Structure
-hand_tracking.py
-requirements.txt
-README.md
 
 ---
 
